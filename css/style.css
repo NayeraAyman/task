@@ -1,0 +1,38 @@
+.quote{
+text-align: center;
+}
+.quote h1{
+margin: 53px 0px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 80px;
+color: #000;
+font-weight: 700;
+}
+.quote p.caption{
+    margin: 35px 0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 400;
+    color: #000;
+}
+.quote button{
+    width: 250px;
+    height: 80px;
+    padding: 1px 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13.3333px;
+    color: #fff;
+    background-color: #00f;
+    border: 2px solid #000;
+    font-weight: 400;
+}
+.quote button:hover{
+    background-color: #008000;
+}
+#quote ,#author{
+    margin: 35px 0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: #000;
+    font-weight: 400;
+}
